@@ -9,6 +9,8 @@ theme: /
     state: Hello
         intent!: /привет
         a: Привет привет
+        a: Привет мир от проекта разработчик два
+        
 
     state: Bye
         intent!: /пока
