@@ -13,6 +13,8 @@ theme: /
     state: Bye
         intent!: /пока
         a: Пока пока
+        a: Текст от разработчика 2 
+        a: Второй текст от разработчика 2 
 
     state: NoMatch
         event!: noMatch
